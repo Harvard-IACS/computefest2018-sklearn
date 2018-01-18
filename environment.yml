@@ -1,4 +1,12 @@
 channels:
 - defaults
 dependencies:
-- anaconda
+- jupyter
+- matplotlib
+- nbconvert
+- numpy
+- pandas
+- scikit-learn
+- scipy
+- seaborn
+- statsmodels
